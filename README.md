@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 🔭 I’m currently working on ABAP 
-- 💬 Ask me about ABAP
-- 📫 How to reach me: berkc.polat@gmail.com
-
+- ⭐️ I’m a computer engineer 
+- ⭐️ Mostly I code in ABAP and JAVA
+- ⭐️ You can reach me via berkc.polat@gmail.com
+- ⭐️ Please check my linkedin profile : https://www.linkedin.com/in/berkcanpolat/
