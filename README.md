@@ -1,5 +1,9 @@
 # Hi there 👋
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
 - ⭐️ Computer Engineer
 - ⭐️ Mostly code in ABAP and JAVA
 - ⭐️ You can reach me via berkc.polat@gmail.com
