@@ -18,4 +18,5 @@ I am a Computer Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-brkcnplt-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/berkcanpolat/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brkcnplt&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Anu     ](https://github-readme-stats.vercel.app/api?username=brkcnplt)](https://github.com/anuraghazra/github-readme-stats)
 
